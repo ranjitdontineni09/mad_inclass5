@@ -1,6 +1,4 @@
 // Digital Pet App with Hunger Timer Countdown
-// Graduate Student: Bala Pavani Lakshmi Priya Koppuravuri
-// Collaborated with: (write your partner name if any)
 
 import 'package:flutter/material.dart';
 import 'dart:async';
